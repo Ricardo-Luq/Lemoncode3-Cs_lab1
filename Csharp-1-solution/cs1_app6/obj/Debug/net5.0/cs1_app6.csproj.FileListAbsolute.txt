@@ -1,0 +1,31 @@
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\bin\Debug\net5.0\cs1_app6.exe
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\bin\Debug\net5.0\cs1_app6.deps.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\bin\Debug\net5.0\cs1_app6.runtimeconfig.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\bin\Debug\net5.0\cs1_app6.runtimeconfig.dev.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\bin\Debug\net5.0\cs1_app6.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\bin\Debug\net5.0\cs1_app6.pdb
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.AssemblyInfoInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.AssemblyInfo.cs
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.csproj.CoreCompileInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\obj\Debug\net5.0\refint\cs1_app6.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.pdb
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.genruntimeconfig.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app6\obj\Debug\net5.0\ref\cs1_app6.dll
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\bin\Debug\net5.0\cs1_app6.exe
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\bin\Debug\net5.0\cs1_app6.deps.json
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\bin\Debug\net5.0\cs1_app6.runtimeconfig.json
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\bin\Debug\net5.0\cs1_app6.runtimeconfig.dev.json
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\bin\Debug\net5.0\cs1_app6.dll
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\bin\Debug\net5.0\cs1_app6.pdb
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.AssemblyInfoInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.AssemblyInfo.cs
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.csproj.CoreCompileInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.sourcelink.json
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.dll
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\obj\Debug\net5.0\refint\cs1_app6.dll
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.pdb
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\obj\Debug\net5.0\cs1_app6.genruntimeconfig.cache
+C:\Users\I44105\Downloads\LEMONCODE\REPOS\Lemoncode3-Git_lab\Csharp-1-solution\cs1_app6\obj\Debug\net5.0\ref\cs1_app6.dll

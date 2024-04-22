@@ -1,0 +1,15 @@
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\bin\Debug\net5.0\cs1_app5.exe
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\bin\Debug\net5.0\cs1_app5.deps.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\bin\Debug\net5.0\cs1_app5.runtimeconfig.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\bin\Debug\net5.0\cs1_app5.runtimeconfig.dev.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\bin\Debug\net5.0\cs1_app5.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\bin\Debug\net5.0\cs1_app5.pdb
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\obj\Debug\net5.0\cs1_app5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\obj\Debug\net5.0\cs1_app5.AssemblyInfoInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\obj\Debug\net5.0\cs1_app5.AssemblyInfo.cs
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\obj\Debug\net5.0\cs1_app5.csproj.CoreCompileInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\obj\Debug\net5.0\cs1_app5.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\obj\Debug\net5.0\refint\cs1_app5.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\obj\Debug\net5.0\cs1_app5.pdb
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\obj\Debug\net5.0\cs1_app5.genruntimeconfig.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\test-app-solution\cs1_app5\obj\Debug\net5.0\ref\cs1_app5.dll
